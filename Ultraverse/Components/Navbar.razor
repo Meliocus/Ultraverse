@@ -1,0 +1,24 @@
+﻿<div class="ui secondary fixed-height stackable main menu no margin bottom" id="navbar">
+    <img navbar="" class="navbar-image" id="navimg" src="/static/assets/navbar.png">
+    <div class="nav2" style="display: none;"></div>
+    <div class="ui container responsive" id="navbarhtml_navbar_items">
+        <div class="item"><b>
+            <a href="/" title="Home page"><img class="ripple logo reactiveImages" id="logo" src="/static/logos/logo.png" alt="osu!Aeris"></a></b></div>
+            <NavbarItem Title="Home" TargetUrl="/" />                     
+            <div class="firetrucking-right-menu">
+            <div class="item">
+                <button class="search-button" onclick="search_click()">
+                    <i class="search link icon"></i>
+                </button>
+            </div>
+            <NavbarItem Title="Login" TargetUrl="/login"/>
+            <NavbarItem Title="Register" TargetUrl="/register" />
+        </div>
+
+    </div>
+    <i class="big bars icon responsive-icon" onclick="if (!window.__cfRLUnblockHandlers) return false; hamburger()" ,="" id="hamburger-menu"></i>
+</div>
+
+@code {
+    
+}

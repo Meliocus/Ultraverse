@@ -1,0 +1,40 @@
+﻿@page "/NotFound"
+@model Ultraverse.Pages.HttpErrorsModel
+
+@{
+    int code = int.Parse(Request.Query["statusCode"]);
+    string title;
+    string error;
+    switch (code)
+    {
+        case 400:
+            title = "400 - Requête incorrecte";
+            error = "La requête est mal formée ou contient des erreurs.";
+            break;
+        case 401:
+            title = "401 - Non autorisé";
+            error = "Vous n'êtes pas autorisé à accéder à cette page.";
+            break;
+        case 403:
+            title = "403 - Accès refusé";
+            error = "Vous n'avez pas les droits d'accès requis pour accéder à cette page.";
+            break;
+        case 404:
+            title = "404 - Page non trouvée";
+            error = "La page que vous cherchez est introuvable.";
+            break;
+        case 500:
+            title = "500 - Erreur interne du serveur";
+            error = "Une erreur interne du serveur s'est produite. Veuillez réessayer plus tard.";
+            break;
+        default:
+            title = "Erreur inconnue";
+            error = "Une erreur inconnue s'est produite. Veuillez réessayer plus tard.";
+            break;
+    }
+    ViewData["Title"] = title;
+    ViewData["Hue"] = "0";
+}
+<div class="ui raised segment">
+    <p>@error</p>
+</div>
