@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulacs\\AppData\\Local\\Temp\\.vsdbgsrc\\da312c4fb57504eaff4df77a9f03a2da72d0feb6\\Pages__ViewImports_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\ultraverse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\ultraverse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\components\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\components\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\enums\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\enums\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\manager\\mysqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\manager\\mysqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\manager\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\manager\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\models\\mysqlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\models\\mysqlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\components\\navbaritem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\components\\navbaritem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\models\\sessionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\models\\sessionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\httperrors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\httperrors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|c:\\users\\ulacs\\bureau\\save\\ultraverse\\ultraverse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE10D51-F8D0-4731-87BC-8F3099D38CAA}|Ultraverse\\Ultraverse.csproj|solutionrelative:ultraverse\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pages__ViewImports_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\AppData\\Local\\Temp\\.vsdbgsrc\\da312c4fb57504eaff4df77a9f03a2da72d0feb6\\Pages__ViewImports_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da312c4fb57504eaff4df77a9f03a2da72d0feb6\\Pages__ViewImports_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\ulacs\\AppData\\Local\\Temp\\.vsdbgsrc\\da312c4fb57504eaff4df77a9f03a2da72d0feb6\\Pages__ViewImports_cshtml.g.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da312c4fb57504eaff4df77a9f03a2da72d0feb6\\Pages__ViewImports_cshtml.g.cs [Lecture seule]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:12:44.723Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\register.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\register.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\register.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MySQLManager.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Manager\\MySQLManager.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Manager\\MySQLManager.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Manager\\MySQLManager.cs",
+              "RelativeToolTip": "Ultraverse\\Manager\\MySQLManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Enums\\Rank.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Enums\\Rank.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Enums\\Rank.cs",
+              "RelativeToolTip": "Ultraverse\\Enums\\Rank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.razor",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Components\\Navbar.razor",
+              "RelativeDocumentMoniker": "Ultraverse\\Components\\Navbar.razor",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Components\\Navbar.razor",
+              "RelativeToolTip": "Ultraverse\\Components\\Navbar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\register.cshtml.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\register.cshtml.cs",
+              "RelativeToolTip": "Ultraverse\\Pages\\register.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Program.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Program.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Program.cs",
+              "RelativeToolTip": "Ultraverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\UserModel.cs",
+              "RelativeToolTip": "Ultraverse\\models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ultraverse.csproj",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Ultraverse.csproj",
+              "RelativeDocumentMoniker": "Ultraverse\\Ultraverse.csproj",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Ultraverse.csproj",
+              "RelativeToolTip": "Ultraverse\\Ultraverse.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T15:01:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MySQLModel.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\MySQLModel.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\models\\MySQLModel.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\MySQLModel.cs",
+              "RelativeToolTip": "Ultraverse\\models\\MySQLModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Manager\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Manager\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Manager\\SessionManager.cs",
+              "RelativeToolTip": "Ultraverse\\Manager\\SessionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavbarItem.razor",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Components\\NavbarItem.razor",
+              "RelativeDocumentMoniker": "Ultraverse\\Components\\NavbarItem.razor",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Components\\NavbarItem.razor",
+              "RelativeToolTip": "Ultraverse\\Components\\NavbarItem.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionModel.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\SessionModel.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\models\\SessionModel.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\models\\SessionModel.cs",
+              "RelativeToolTip": "Ultraverse\\models\\SessionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HttpErrors.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\HttpErrors.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\HttpErrors.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\HttpErrors.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\HttpErrors.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Ultraverse\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\login.cshtml",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\login.cshtml",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\login.cshtml",
+              "RelativeToolTip": "Ultraverse\\Pages\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:01:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Ultraverse\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Ultraverse\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ulacs\\Bureau\\Save\\Ultraverse\\Ultraverse\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Ultraverse\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:01:41.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

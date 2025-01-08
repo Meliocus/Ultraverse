@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ultraverse</title>
+    <link rel="stylesheet" href="~/css/Aeris.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/semantic.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Ultraverse.styles.css" asp-append-version="true" />
+    <script src="/js/aeris.js" asp-append-version="true"> </script>
+    <script src="/js/dist.min.js" asp-append-version="true"> </script>
+    <script src="/js/semantic.js" asp-append-version="true"> </script>
+    <style>
+        :root {
+            --main-hue-theme: @ViewData["Hue"]deg
+        }
+    </style>
+</head>
+<body>
+    <div class="background-image" style="background-image: url('/static/headers/welcome.jpg');">
+    </div>
+    <div class="ui full height main wrapper">
+        <component type="typeof(Navbar)" render-mode="ServerPrerendered" />
+        <div class="huge heading  dropped" style="background-image: url('/static/headers/welcome.jpg');">
+
+            <div class="header-overlay"><i></i></div>
+            <div class="ui container">
+                <div class="main-bg-container"></div>
+                <h1> @ViewData["Title"] </h1>
+            </div>
+        </div>
+        <div class="h-container">
+            <div class="ui margined container" id="messages-container">
+                                    <noscript>Research has proven this website works 10000% better if you have JavaScript enabled.</noscript>
+                                    <div class="information-message">Welcome to FoobyLand</div>
+            </div>
+            <div class="ui container">
+            @RenderBody()
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-texts">
+            <div class="upper">
+                <a href="https://www.mikapikazo.com">Artworks used</a>
+
+                <div class="lower">Frontend Hanayo 1.11.0 | FoobLand 2022-2022</div>
+            </div>
+
+            <div id="loading-screen" class="loading-bg lbghidden">
+                <i class="l1"></i>
+                <i class="l2"></i>
+                <i class="l3"></i>
+                <i class="l4"></i>
+            </div>
+            <div id="search" class="search-bg sbghidden">
+                <div id="search-box" class="search-fg">
+                    <div>
+                        <div class="search-window">
+                            <input type="text" placeholder="Looking for someone?" id="search-input" autocomplete="off" oninput="search()">
+                            <i class="big search link icon"></i>
+                        </div>
+                    </div>
+                    <div class="search-divider"></div>
+                    <div class="search-container">
+                        <h1 id="players">Users</h1>
+                        <div id="players-result">
+                            No input
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

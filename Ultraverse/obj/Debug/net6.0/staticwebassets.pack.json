@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\Aeris.css",
+      "PackagePath": "staticwebassets\\css\\Aeris.css"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\semantic.css",
+      "PackagePath": "staticwebassets\\css\\semantic.css"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\fonts\\icons.eot",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\fonts\\icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\fonts\\icons.svg",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\fonts\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\fonts\\icons.ttf",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\fonts\\icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\css\\themes\\default\\assets\\images\\flags.png",
+      "PackagePath": "staticwebassets\\css\\themes\\default\\assets\\images\\flags.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\js\\aeris.js",
+      "PackagePath": "staticwebassets\\js\\aeris.js"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\js\\dist.min.js",
+      "PackagePath": "staticwebassets\\js\\dist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\js\\semantic.js",
+      "PackagePath": "staticwebassets\\js\\semantic.js"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\Thumbs.db",
+      "PackagePath": "staticwebassets\\static\\assets\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\caution.png",
+      "PackagePath": "staticwebassets\\static\\assets\\caution.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\div-footer.png",
+      "PackagePath": "staticwebassets\\static\\assets\\div-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\error.png",
+      "PackagePath": "staticwebassets\\static\\assets\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\navbar.png",
+      "PackagePath": "staticwebassets\\static\\assets\\navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\assets\\video.mp4",
+      "PackagePath": "staticwebassets\\static\\assets\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\emotes\\happy.png",
+      "PackagePath": "staticwebassets\\static\\emotes\\happy.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\emotes\\heart.svg",
+      "PackagePath": "staticwebassets\\static\\emotes\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\emotes\\laugh.png",
+      "PackagePath": "staticwebassets\\static\\emotes\\laugh.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\emotes\\rage.png",
+      "PackagePath": "staticwebassets\\static\\emotes\\rage.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\emotes\\sad.png",
+      "PackagePath": "staticwebassets\\static\\emotes\\sad.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-Bold.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-Heavy.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-Heavy.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-Light.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-Regular.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-SemiBold.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-SemiBold.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Torus-Thin.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Torus-Thin.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\fonts\\Venera-500.otf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Venera-500.otf"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\2fa.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\2fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\Thumbs.db",
+      "PackagePath": "staticwebassets\\static\\headers\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\changelog.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\changelog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\default.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\dev.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\documentation.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\documentation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\donate2.png",
+      "PackagePath": "staticwebassets\\static\\headers\\donate2.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\friends.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\friends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\help.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\help.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\homepage.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\homepage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\homepage2.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\homepage2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\leaderboard2.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\leaderboard2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\login2.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\login2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\not_found.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\not_found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\register.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\request_beatmap_ranking.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\request_beatmap_ranking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\settings.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\settings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\stop_sign.png",
+      "PackagePath": "staticwebassets\\static\\headers\\stop_sign.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\team2.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\headers\\welcome.jpg",
+      "PackagePath": "staticwebassets\\static\\headers\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\icon.png",
+      "PackagePath": "staticwebassets\\static\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ulacs\\Desktop\\Ultraverse\\Ultraverse\\wwwroot\\static\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\static\\logos\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ultraverse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ultraverse.props",
+      "PackagePath": "build\\Ultraverse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ultraverse.props",
+      "PackagePath": "buildMultiTargeting\\Ultraverse.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ultraverse.props",
+      "PackagePath": "buildTransitive\\Ultraverse.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

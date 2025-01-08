@@ -1,0 +1,25 @@
+﻿
+<a class="@(Active ? "active " : string.Empty)item" href="@TargetUrl">@Title</a>
+
+@using Ultraverse.Enums
+@inject NavigationManager nav
+@code {
+    [Parameter]
+    public string Title { get; set; } = "Sample";
+
+    [Parameter]
+    public string TargetUrl { 
+        get; 
+        set; 
+    } = "/";
+
+
+    public bool Active => false; //GeneralUtils.RelativePath(nav) == TargetUrl;
+
+    protected override bool ShouldRender()
+    {
+        //Appelle une fonction dans UserUtils pour check si il est connécté
+        //et tu fait tes check avec RenderContext
+        return base.ShouldRender();
+    }
+}
